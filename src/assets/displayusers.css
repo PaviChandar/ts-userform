@@ -1,0 +1,9 @@
+.number {
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+
+.displayContainer{
+    display: flex;
+    flex-direction: column;
+}
